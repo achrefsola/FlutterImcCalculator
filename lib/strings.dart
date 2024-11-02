@@ -1,0 +1,10 @@
+const  String bmidesc = "The BMI (Body Mass Index) indicator is a measure used to assess an individual's body fat based on their height and weight.";
+const String bmidesc1 = "1.Underweight: BMI less than 18.5";
+const String bmidesc2="2.Normal weight: BMI between 18.5 and 24.9";
+const String bmidesc3="3.Overweight: BMI between 25 and 29.9";
+const String bmidesc4="4.Obesity (Class I): BMI between 30 and 34.9";
+const String bmidesc5="5.Obesity (Class II): BMI between 35 and 39.9";
+const String bmidesc6="6.Obesity (Class III): BMI 40 or greater";
+const  String info ="Info";
+const  String bmrdesc ="The BMR (Basal Metabolic Rate) indicator represents the number of calories that your body needs to maintain its basic functions while at rest";
+ const  String fatdesc="The body fat percentage, is a measure of the proportion of fat mass to total body weight";
