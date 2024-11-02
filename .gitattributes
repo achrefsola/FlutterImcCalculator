@@ -1,1 +1,2 @@
 *.dart linguist-language=Dart
+pubspec.yaml linguist-language=Dart
