@@ -1,2 +1,11 @@
 *.dart linguist-language=Dart
 pubspec.yaml linguist-language=Dart
+# Specify Dart as the primary language
+*.dart linguist-language=Dart
+
+# Specify that the C++ files should not be counted in the language statistics
+*.cpp linguist-language=C++
+*.h linguist-language=C++
+
+# Specify other relevant files
+pubspec.yaml linguist-language=Dart
